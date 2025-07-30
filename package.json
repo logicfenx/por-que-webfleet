@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/por-que-webfleet",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a por-que-webfleet",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/por-que-webfleet.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://losnegocios.mx/webfleet-gestion-de-flotas/"
+    },
+    "homepage": "https://losnegocios.mx/webfleet-gestion-de-flotas/"
+}
